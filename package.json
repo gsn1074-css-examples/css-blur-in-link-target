@@ -1,0 +1,14 @@
+{
+    "name": "css-blur-in-link-target",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+        "start": "concurrently  \"npm run lite\" ",
+        "lite": "lite-server"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "lite-server": "2.2.2",
+        "concurrently": "3.1.0"
+    }
+}
